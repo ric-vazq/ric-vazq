@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ric-vazq
+- 👋 Hi, I’m Ricardo Vazquez or @ric-vazq
 - 👀 I’m interested in Pokémon, Swimming, and Learning Code!
 - 🌱 I’m currently doing a Full Stack Web Development Bootcamp
 - 💞️ I’m looking to collaborate on ...
