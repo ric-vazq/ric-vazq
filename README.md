@@ -4,6 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me:
   - email: rickyrabv@gmail.com
+  - linkedIn: https://www.linkedin.com/in/ric-vazq/
 
 <!---
 ric-vazq/ric-vazq is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
